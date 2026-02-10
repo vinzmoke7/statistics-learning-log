@@ -16,6 +16,19 @@ What I learned:
 
 Note:
 Khan Academy course page still shows Unit 1 as not started,
+
+## Day 2
+Topic:
+- Individuals and variables
+- Categorical variables
+- Pictograms
+
+Source:
+- Khan Academy (Statistics & Probability)
+
+Note:
+Progress was light due to exam preparation.
+
 but individual statistics skills (dot plots, clusters, outliers)
 show completed progress via search.
 
