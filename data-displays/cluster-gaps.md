@@ -13,4 +13,4 @@ A gap is a range on the number line where no data points appear.
 An outlier is a value that is far away from most of the data.
 
 ## My confusion
-Sometimes I mistake a cluster for just "many dots" instead of closeness.
+Sometimes I mistake a cluster for just "many dots" instead of closeness..
